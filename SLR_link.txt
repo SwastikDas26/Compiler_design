@@ -2,3 +2,6 @@ https://www.online-notepad.net/share/5w5zg5mxoi2nltn1rnt90qbwbhbdkp
 https://mycodecamp.blogspot.com/2019/05/c-program-to-implement-predictive.html
 
 g++ -std=c++11 machine1.cpp -o machine1 
+
+
+https://tinyurl.com/bdhf3m5j
